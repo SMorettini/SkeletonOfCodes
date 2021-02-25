@@ -2,7 +2,7 @@
 
 # import plotly and set it offline
 import plotly
-import plotly.plotly as py
+import chart_studio.plotly as py
 import plotly.graph_objs as go 
 plotly.offline.init_notebook_mode(connected=True)
 
