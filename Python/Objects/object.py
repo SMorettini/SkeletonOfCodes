@@ -11,6 +11,6 @@ class ClassName():
 
 if __name__ == '__main__':
 
-    path="C:/Users/sesimor/Documents/RobotStudio/Virtual Controllers/vcsim/HOME/logs/lugre_wear/"
+    path=""
     cl = ClassName(a,b,c)
     cl.do_something()
