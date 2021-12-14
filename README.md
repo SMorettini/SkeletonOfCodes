@@ -14,9 +14,9 @@ The repository will be always update with new piece of code from different langu
         - **Plotly** in jupyther
         - **matplotlib**
     - **StateMachine** a simple implementation for a state machine
-    - **short_code**
+    - **short_code.py**
         - **short if**
-    - **virtual_environment**
+    - **virtual_environment.py**
 - **C++**
-    - **short_code**
+    - **short_code.cpp**
         - **short if**
