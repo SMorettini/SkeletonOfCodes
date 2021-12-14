@@ -1,0 +1,1 @@
+ variable = (condition) ? expressionTrue : expressionFalse;
