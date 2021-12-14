@@ -16,3 +16,7 @@ The repository will be always update with new piece of code from different langu
     - **StateMachine** a simple implementation for a state machine
     - **short_code**
         - **short if**
+    - **virtual_environment**
+- **C++**
+    - **short_code**
+        - **short if**
